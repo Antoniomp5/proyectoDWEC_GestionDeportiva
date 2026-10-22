@@ -5,5 +5,3 @@
 -   David
 -   Miguel Ángel
 -   Raúl
-
-Esto es una prueba
